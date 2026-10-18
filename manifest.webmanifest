@@ -1,7 +1,7 @@
 {
   "name": "MARLEV Trading Command Center",
   "short_name": "MARLEV",
-  "description": "Personal PSE trading analysis and planning tool; optional HTTPS CSV sync, no order execution.",
+  "description": "Personal PSE trading analysis and planning tool; public CSV sync and private connector preview, no order execution.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
